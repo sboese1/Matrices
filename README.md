@@ -1,1 +1,1 @@
-The user is able to do a variety of functions with two matrices
+The user is able to do a variety of functions with two matrices including basic functions
